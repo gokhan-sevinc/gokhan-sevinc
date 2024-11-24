@@ -22,10 +22,10 @@
   </p>
 </div>
 
-<h1 align="center">Merhaba 👋
-<br>  ben Gökhan Sevinç</h1>
-<p><i>Merhaba; adım Gökhan, 35 yaşındayım. Yazılım Test konusunda tutkuluyum ve şu anda Yazılım Test Mühendisi olarak çalışıyorum.
-Kendimi sürekli geliştirmeye ve bu heyecan verici alanda büyümeye adadım.</i></p>
+<h1 align="center">Hello 👋
+<br>I'm GOKHAN</h1>
+<p><i>Hello, my name is Gökhan, and I am 35 years old. I am passionate about Software Testing and currently working as a Software Test Engineer.<br> 
+I am committed to continuously improving myself and growing in this exciting field ..</i></p>
 
 
 <br>
