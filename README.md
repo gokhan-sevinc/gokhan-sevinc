@@ -64,18 +64,22 @@ Kendimi sürekli geliştirmeye ve bu heyecan verici alanda büyümeye adadım.</
 </p>
 <br>
 <br>
-<br>
-<br>
+
 <div style="display: flex; flex-direction: column; align-items: center; gap: 20px; width: 100%;">
+  
   <!-- GitHub Stats -->
   <p style="width: 80%; margin: 0;">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=gokhan-sevinc&show_icons=true&title_color=f00505&locale=tr" alt="gokhan-sevinc" style="width: 100%;" />
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=gokhan-sevinc&show_icons=true&title_color=f00505&locale=tr" alt="gokhan-sevinc" style="width: 80%;" />
   </p>
 
   <!-- GitHub Streak Stats -->
   <p style="width: 80%; margin: 0;">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gokhan-sevinc&" alt="gokhan-sevinc" style="width: 100%;" />
+    <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=gokhan-sevinc&" alt="gokhan-sevinc" style="width: 80%;" />
   </p>
 </div>
 
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CagatayAkkas/CagatayAkkas/output/github-contribution-grid-snake.svg">
+</picture>
